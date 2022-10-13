@@ -3,6 +3,8 @@
 Bonjour, j'ai demarré la formation le 10/06/2022 et ma fin de formation est le 09/06/2023.
 Je partage mes projets afin qu'on puisse voir mes progrès.
 
+13/10/2022: Projet 07 en cours
+
 
 ## Les différents Projets d'OpenClassroom en Python
 
