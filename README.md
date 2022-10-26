@@ -10,17 +10,17 @@ Je partage mes projets afin qu'on puisse voir mes progrès.
 
 Projet 01 : Prenez en main votre formation de Data Analyst
 
-Projet 02 : Faites une analyse des ventes pour un e-commerce
+Projet 02 : Faites une analyse des ventes pour un e-commerce (Excel)
 
-Projet 03 : Créez et utilisez une base de données immobilière avec SQL
+Projet 03 : Créez et utilisez une base de données immobilière (SQL)
 
-Projet 04 : Réalisez une étude de santé publique
+Projet 04 : Réalisez une étude de santé publique (Python)
 
-Projet 05 : Optimisez la gestion des données d'une boutique
+Projet 05 : Optimisez la gestion des données d'une boutique (Python)
 
-Projet 06 : Analysez les ventes d'une librairie
+Projet 06 : Analysez les ventes d'une librairie (Python)
 
-Projet 07 : Analysez des indicateurs de l'égalité femme-homme
+Projet 07 : Analysez des indicateurs de l'égalité femme-homme (Knime)
 
 Projet 08 : Faites une étude sur l'eau potable (En Cours avec Tableau)
 
