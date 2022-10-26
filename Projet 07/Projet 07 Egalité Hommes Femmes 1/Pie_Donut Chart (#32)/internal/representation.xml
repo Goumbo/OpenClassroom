@@ -41,14 +41,14 @@
     <entry key="inView" type="xboolean" value="true"/>
     <config key="tableIds">
         <entry key="array-size" type="xint" value="1"/>
-        <entry key="0" type="xstring" value="285e1c5a-cea7-458d-a45e-38babbb600a1"/>
+        <entry key="0" type="xstring" value="efa87a33-749b-4433-ba65-8161ceb2b50c"/>
     </config>
     <config key="variables">
         <entry key="numSettings" type="xint" value="1"/>
         <entry key="mapClass" type="xstring" value="string"/>
         <entry key="key_0" type="xstring" value="knime.workspace"/>
         <entry key="class_0" type="xstring" value="java.lang.String"/>
-        <entry key="value_0" type="xstring" value="F:\01. Sauvegarde Github\OpenClassroom\Projet 07"/>
+        <entry key="value_0" type="xstring" value="F:\37. Projet 07\10. Knime"/>
     </config>
     <config key="binaryFiles">
         <entry key="numSettings" type="xint" value="0"/>
@@ -129,7 +129,7 @@
         <entry key="numSettings" type="xint" value="1"/>
         <config key="inObject_0">
             <entry key="className" type="xstring" value="org.knime.dynamic.js.base.grouped.GroupedProcessor$GroupingResult"/>
-            <entry key="jsonValue" type="xstring" value="{&quot;uuid&quot;:&quot;67b5925a-0833-42ad-8676-936fe1885369&quot;,&quot;translator&quot;:{&quot;mapping&quot;:{&quot;Row0&quot;:[&quot;Row0&quot;],&quot;Row1&quot;:[&quot;Row1&quot;]},&quot;sourceID&quot;:null,&quot;forward&quot;:false,&quot;targetIDs&quot;:null},&quot;table&quot;:{&quot;@class&quot;:&quot;org.knime.js.core.JSONDataTable&quot;,&quot;id&quot;:&quot;27be1bea-ace8-49b4-a82c-f41b8da66ff5&quot;,&quot;rows&quot;:[{&quot;data&quot;:[&quot;CDD&quot;,11.0],&quot;rowKey&quot;:&quot;Row0&quot;},{&quot;data&quot;:[&quot;CDI&quot;,114.0],&quot;rowKey&quot;:&quot;Row1&quot;}],&quot;fragment&quot;:false,&quot;fragmentFirstRowIndex&quot;:0,&quot;totalFilteredRows&quot;:0,&quot;filtered&quot;:false,&quot;dataHash&quot;:null,&quot;totalRows&quot;:0,&quot;spec&quot;:{&quot;@class&quot;:&quot;org.knime.js.core.JSONDataTableSpec&quot;,&quot;containsMissingValues&quot;:[false,false],&quot;hiddenColumns&quot;:[],&quot;minValues&quot;:[&quot;CDD&quot;,11.0],&quot;rowColorValues&quot;:[&quot;#FF8427&quot;,&quot;#FFBD47&quot;],&quot;maxValues&quot;:[&quot;CDI&quot;,114.0],&quot;rowSizeValues&quot;:null,&quot;numExtensions&quot;:0,&quot;extensionTypes&quot;:[],&quot;extensionNames&quot;:[],&quot;colNames&quot;:[&quot;Contrat&quot;,&quot;F&quot;],&quot;numColumns&quot;:2,&quot;numRows&quot;:2,&quot;colorModels&quot;:[{&quot;type&quot;:&quot;nominal&quot;,&quot;colors&quot;:[&quot;#FF8427&quot;,&quot;#FFBD47&quot;],&quot;labels&quot;:[&quot;CDD&quot;,&quot;CDI&quot;],&quot;title&quot;:&quot;Contrat&quot;}],&quot;knimeTypes&quot;:[&quot;String&quot;,&quot;Number (double)&quot;],&quot;colTypes&quot;:[&quot;string&quot;,&quot;number&quot;],&quot;filterIds&quot;:[null,null],&quot;possibleValues&quot;:[[&quot;CDD&quot;,&quot;CDI&quot;],null]}}}"/>
+            <entry key="jsonValue" type="xstring" value="{&quot;uuid&quot;:&quot;8dd1881b-96d3-4599-bd10-56395cea76a6&quot;,&quot;translator&quot;:{&quot;mapping&quot;:{&quot;Row0&quot;:[&quot;Row0&quot;],&quot;Row1&quot;:[&quot;Row1&quot;]},&quot;sourceID&quot;:null,&quot;targetIDs&quot;:null,&quot;forward&quot;:false},&quot;table&quot;:{&quot;@class&quot;:&quot;org.knime.js.core.JSONDataTable&quot;,&quot;fragment&quot;:false,&quot;id&quot;:&quot;c3ff4377-8c01-41c0-ad92-caef0b61ce42&quot;,&quot;rows&quot;:[{&quot;data&quot;:[&quot;CDD&quot;,11.0],&quot;rowKey&quot;:&quot;Row0&quot;},{&quot;data&quot;:[&quot;CDI&quot;,114.0],&quot;rowKey&quot;:&quot;Row1&quot;}],&quot;filtered&quot;:false,&quot;totalFilteredRows&quot;:0,&quot;fragmentFirstRowIndex&quot;:0,&quot;spec&quot;:{&quot;@class&quot;:&quot;org.knime.js.core.JSONDataTableSpec&quot;,&quot;containsMissingValues&quot;:[false,false],&quot;numColumns&quot;:2,&quot;colNames&quot;:[&quot;Contrat&quot;,&quot;F&quot;],&quot;numRows&quot;:2,&quot;hiddenColumns&quot;:[],&quot;possibleValues&quot;:[[&quot;CDD&quot;,&quot;CDI&quot;],null],&quot;colTypes&quot;:[&quot;string&quot;,&quot;number&quot;],&quot;knimeTypes&quot;:[&quot;String&quot;,&quot;Number (double)&quot;],&quot;rowColorValues&quot;:[&quot;#FF8427&quot;,&quot;#FFBD47&quot;],&quot;colorModels&quot;:[{&quot;type&quot;:&quot;nominal&quot;,&quot;colors&quot;:[&quot;#FF8427&quot;,&quot;#FFBD47&quot;],&quot;labels&quot;:[&quot;CDD&quot;,&quot;CDI&quot;],&quot;title&quot;:&quot;Contrat&quot;}],&quot;filterIds&quot;:[null,null],&quot;minValues&quot;:[&quot;CDD&quot;,11.0],&quot;maxValues&quot;:[&quot;CDI&quot;,114.0],&quot;rowSizeValues&quot;:null,&quot;extensionNames&quot;:[],&quot;extensionTypes&quot;:[],&quot;numExtensions&quot;:0},&quot;dataHash&quot;:null,&quot;totalRows&quot;:0}}"/>
         </config>
     </config>
     <entry key="warnMessage" type="xstring" value=""/>

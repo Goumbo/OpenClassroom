@@ -36,7 +36,7 @@
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="Export Graphique"/>
         <entry key="bgcolor" type="xint" value="16769156"/>
-        <entry key="x-coordinate" type="xint" value="2107"/>
+        <entry key="x-coordinate" type="xint" value="2197"/>
         <entry key="y-coordinate" type="xint" value="1469"/>
         <entry key="width" type="xint" value="106"/>
         <entry key="height" type="xint" value="15"/>
@@ -79,6 +79,6 @@
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="58d5e2a5-ab79-41d1-913f-8b5f78f9bd53"/>
+        <entry key="file_store_id" type="xstring" value="fe1de647-94d5-4f62-b557-398b79818bc4"/>
     </config>
 </config>

@@ -6,10 +6,10 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="expression" type="xstring" value="$Salaire base mensuel$*(35/$Durée hebdo$)*(1+$%variable_moyen$/100)"/>
-        <entry key="replaced_column" type="xstring" value="Salaire Mensuel à 35h"/>
         <entry key="append_column" type="xboolean" value="false"/>
-        <entry key="convert_to_int" type="xboolean" value="true"/>
+        <entry key="replaced_column" type="xstring" value="Salaire Mensuel à 35h"/>
+        <entry key="expression" type="xstring" value="$Salaire base mensuel$*(35/$Durée hebdo$)*(1+$%variable_moyen$/100)"/>
+        <entry key="convert_to_int" type="xboolean" value="false"/>
     </config>
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="Salaire sur 35%%00013%%00010Pour tous"/>
@@ -61,6 +61,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="1e81cda0-1e81-4b33-8069-f1e4522e60d7"/>
+        <entry key="file_store_id" type="xstring" value="2acf8f93-9d85-462e-a596-033515021966"/>
     </config>
 </config>

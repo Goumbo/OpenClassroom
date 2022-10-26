@@ -1,10 +1,21 @@
-2022-10-26 17:24:25,272 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
-2022-10-26 17:24:25,272 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
-2022-10-26 17:24:25,273 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : AccŠs au registre demand‚ non autoris‚.
-2022-10-26 17:24:25,273 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Au caractŠre Ligne:1 : 1
-2022-10-26 17:24:25,273 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
-2022-10-26 17:24:25,273 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-2022-10-26 17:24:25,273 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
-2022-10-26 17:24:25,273 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
-2022-10-26 17:24:25,274 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
-2022-10-26 17:24:25,274 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2022-10-26 22:56:20,507 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2022-10-26 22:56:20,508 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2022-10-26 22:56:20,508 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : AccŠs au registre demand‚ non autoris‚.
+2022-10-26 22:56:20,508 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Au caractŠre Ligne:1 : 1
+2022-10-26 22:56:20,508 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2022-10-26 22:56:20,531 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2022-10-26 22:56:20,531 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2022-10-26 22:56:20,531 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2022-10-26 22:56:20,531 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2022-10-26 22:56:20,531 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2022-10-26 22:57:58,589 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2022-10-26 22:57:58,589 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2022-10-26 22:57:58,589 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : AccŠs au registre demand‚ non autoris‚.
+2022-10-26 22:57:58,590 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Au caractŠre Ligne:1 : 1
+2022-10-26 22:57:58,590 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2022-10-26 22:57:58,590 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2022-10-26 22:57:58,590 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2022-10-26 22:57:58,590 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2022-10-26 22:57:58,590 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2022-10-26 22:57:58,590 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2022-10-26 23:03:02,485 : WARN  : KNIME-Worker-4-Conditional Box Plot 3:200 :  : Node : Conditional Box Plot : 3:200 : Configured category column 'Service' is not available anymore.

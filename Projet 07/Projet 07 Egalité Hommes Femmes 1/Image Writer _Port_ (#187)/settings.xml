@@ -11,26 +11,26 @@
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <config key="filechooser">
+            <config key="file_system_chooser__Internals">
+                <entry key="has_fs_port" type="xboolean" value="false"/>
+                <entry key="overwritten_by_variable" type="xboolean" value="false"/>
+                <entry key="convenience_fs_category" type="xstring" value="LOCAL"/>
+                <entry key="relative_to" type="xstring" value="knime.workflow.data"/>
+                <entry key="mountpoint" type="xstring" value="knime-temp-space"/>
+                <entry key="custom_url_timeout" type="xint" value="1000"/>
+                <entry key="connected_fs" type="xboolean" value="true"/>
+            </config>
             <config key="path">
-                <entry key="path" type="xstring" value="F:\37. Projet 07\25. Image PowerPoint\7. Effectifs par Service.svg"/>
                 <entry key="location_present" type="xboolean" value="true"/>
                 <entry key="file_system_type" type="xstring" value="LOCAL"/>
+                <entry key="path" type="xstring" value="F:\37. Projet 07\25. Image PowerPoint\7. Effectifs par Service.svg"/>
             </config>
-            <entry key="if_path_exists" type="xstring" value="overwrite"/>
-            <config key="file_system_chooser__Internals">
-                <entry key="relative_to" type="xstring" value="knime.workflow.data"/>
-                <entry key="connected_fs" type="xboolean" value="true"/>
-                <entry key="convenience_fs_category" type="xstring" value="LOCAL"/>
-                <entry key="overwritten_by_variable" type="xboolean" value="false"/>
-                <entry key="custom_url_timeout" type="xint" value="1000"/>
-                <entry key="has_fs_port" type="xboolean" value="false"/>
-                <entry key="mountpoint" type="xstring" value="knime-temp-space"/>
-            </config>
-            <entry key="create_missing_folders" type="xboolean" value="false"/>
             <config key="filter_mode_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
                 <entry key="EnabledStatus" type="xboolean" value="true"/>
             </config>
+            <entry key="create_missing_folders" type="xboolean" value="false"/>
+            <entry key="if_path_exists" type="xstring" value="overwrite"/>
         </config>
     </config>
     <config key="nodeAnnotation">
@@ -79,6 +79,6 @@
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="3fda7de1-8e53-49c2-b31a-3d67b68ff4c8"/>
+        <entry key="file_store_id" type="xstring" value="1c18cfe5-7e82-48c2-8d48-d8de8d6944c6"/>
     </config>
 </config>
