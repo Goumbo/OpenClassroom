@@ -3,10 +3,11 @@
 Bonjour, j'ai demarré la formation le 10/06/2022 et ma fin de formation est le 09/06/2023.
 Je partage mes projets afin qu'on puisse voir mes progrès.
 
-26/10/2022: Projet 08 en cours
+05/12/2022: Projet 08 Terminé depuis une semaine
+            Montée en compétence sur R
 
 
-## Les différents Projets d'OpenClassroom en Python
+## Les différents Projets d'OpenClassroom
 
 Projet 01 : Prenez en main votre formation de Data Analyst
 
@@ -22,7 +23,7 @@ Projet 06 : Analysez les ventes d'une librairie (Python)
 
 Projet 07 : Analysez des indicateurs de l'égalité femme-homme (Knime)
 
-Projet 08 : Faites une étude sur l'eau potable (En Cours avec Tableau)
+Projet 08 : Faites une étude sur l'eau potable (avec Tableau)
 
 Projet 09 : Produisez une étude de marché (Pas encore commencé)
 
