@@ -3,8 +3,9 @@
 Bonjour, j'ai demarré la formation le 10/06/2022 et ma fin de formation est le 09/06/2023.
 Je partage mes projets afin qu'on puisse voir mes progrès.
 
-05/12/2022: Projet 08 Terminé depuis une semaine
-            Montée en compétence sur R
+28/11/2022: Projet 08 Terminé, passage de la soutenance le 12/12/2022
+            
+29/11/2022: Montée en compétence sur R jusqu'à la fin du mois
 
 
 ## Les différents Projets d'OpenClassroom
